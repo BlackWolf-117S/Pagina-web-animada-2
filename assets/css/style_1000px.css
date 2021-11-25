@@ -1,0 +1,64 @@
+.hero__contenedor__titulo {
+	width: 45%;
+}
+.hero__titulo__parrafo__contenedor {
+	height: 122px;
+	padding-top: 0px;
+}
+.hero__contenedor__titilos__h2__y__h1 {
+	margin-bottom: 10px;
+}
+.hero__imagen {
+	left: calc(50% - 500px);
+	width: 450px;
+}
+.hero__titulo__parrafo {
+	max-width: 380px;
+}
+.hero__titulo__boton {
+	width: 200px;
+}
+main {
+	position: relative;
+}
+.seccion__contenedor__aboutUs {
+	width: 800px;
+	height: 350px;
+	left: calc(50% - 400px);
+	top: -70px;
+	position: absolute;
+	z-index: 1;
+}
+.div__contenedor__ourService {
+	padding-top: 300px;
+	width: 70%;
+}
+.ourService__contenedor__cards {
+	padding-top: 50px;
+	display: flex;
+}
+.ourService__cards {
+	width: 25%;
+	margin: auto;
+	padding-bottom: 60px;
+}
+.ourService__imagen {
+	top: 300px;
+}
+.seccion__contenedor__contact {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.div___contenedor__contact {
+	width: 35%;
+	margin: 0 auto;
+}
+.seccion__contenedor__contact__2 {
+	width: 35%;
+	margin: 0 auto;
+	margin-top: 170px;
+}
+.footer__redes {
+	font-size: 40px;
+}

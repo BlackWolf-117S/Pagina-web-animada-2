@@ -1,0 +1,20 @@
+.header__contenedor__hero {
+	width: 100%;
+	height: 400px;
+	position: relative;
+}
+.hero__contenedor__titulo {
+	position: absolute;
+	width: 40%;
+	height: auto;
+	right: 30px;
+	top: 40px;
+}
+.hero__contenedor__titilos__h2__y__h1 {
+	margin-bottom: 50px;
+}
+.hero__imagen {
+	left: 30px;
+	top: 40px;
+	width: 400px;
+}
